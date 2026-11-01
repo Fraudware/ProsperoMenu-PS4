@@ -23,9 +23,7 @@ ProsperoMenu is a menu docked to the left edge of the screen. It is drawn by the
 
 ## Compatibility
 
-Tested on **PS4 Pro running firmware 13.52 with GoldHEN**. Compatibility with other firmware versions has not been verified.
-
-The current beta loader checks for firmware 13.52 and rejects other versions.
+⚠️ This beta has only been tested on firmware 13.52 with GoldHEN.
 
 ## Installation
 
