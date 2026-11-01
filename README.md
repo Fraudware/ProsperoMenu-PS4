@@ -1,3 +1,5 @@
+![ProsperoMenu PS4 Beta with source-based menu previews](docs/images/banner.png)
+
 # ProsperoMenu PS4
 
 PS4 dashboard overlay with app shortcuts, plugin controls, file browsing, fan controls, and themes.
