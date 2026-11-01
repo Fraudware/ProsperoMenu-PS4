@@ -2,7 +2,7 @@
 
 # ProsperoMenu PS4
 
-PS4 dashboard overlay with app shortcuts, plugin controls, file browsing, fan controls, and themes.
+ProsperoMenu is a menu docked to the left edge of the screen. It is drawn by the PS4's own ShellUI, so it appears over the home screen, apps and running games, and takes controller input only while it is open. Press **L3 + R3** to open or close the menu, with built-in pages for app launching, plugins, file browsing, fan control, themes and console settings.
 
 **Beta — tested on PS4 Pro running firmware 13.52 with GoldHEN.**
 
