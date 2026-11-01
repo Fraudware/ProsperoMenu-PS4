@@ -1,0 +1,10 @@
+{
+  "release": "pkg23",
+  "binary_sha256": {
+    "pm_shellui_keeper.prx": "43de98882f2e85c193d4ae7b740a065a163982303b1e5e4d9a9da54d0378482d",
+    "pm_shellui_marker.prx": "5a8f7fa4b270570df67c68a89ca34484e83ccb30d2dc30c36f670657b175ec37",
+    "pm_shellui_start.bin": "6ea70dda89bcbb9f9d061f6d4a7ccc71a16fd5e706bb01b3a87603d12edc64d7"
+  },
+  "verification": "Tested on PS4 Pro running firmware 13.52 with GoldHEN; complete package installation unverified.",
+  "display_name": "ProsperoMenu PS4 Beta"
+}

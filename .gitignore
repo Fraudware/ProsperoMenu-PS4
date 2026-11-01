@@ -1,0 +1,8 @@
+build/
+tests/renderer_host
+tests/hook_gate_host
+tests/dispatch_host
+*.log
+*.txt
+!README.txt
+__pycache__/
